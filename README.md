@@ -3,7 +3,7 @@ Project by:
 **Dima Maizik** - Team Leader, lead programmer  
 **David Goodfellow** - Lead Modeller  
 **Keenan Vrooman** - Lead Designer  
-**Cody Fortin** - Design consultant  
+**Cody Fortin** - Lead Design consultant  
   
   
 ##About:
