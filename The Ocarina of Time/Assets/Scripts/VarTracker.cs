@@ -9,6 +9,7 @@ public class VarTracker : MonoBehaviour {
     public int mp = 100;
     public int keycount = 1;
     public int Location = 0;
+    public int time = 0;
     /* Loctions:
     0: Hyrule Field
     1: Kokiri Forest
@@ -38,6 +39,11 @@ public class VarTracker : MonoBehaviour {
         {
             hp = maxhp;
         }
+        if (time > 179)
+        {
+            time = 0;
+        }
+        
 	}
 
     public void devmodechange(int dev)
