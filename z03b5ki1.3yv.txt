@@ -1,0 +1,47 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch Scripting
+# Your branch is up-to-date with 'origin/Scripting'.
+#
+# Changes to be committed:
+#	modified:   The Ocarina of Time/Assets/Scenes/Main Menu.unity
+#	modified:   The Ocarina of Time/Assets/Scripts/VarTracker.cs
+#	modified:   The Ocarina of Time/Library/InspectorExpandedItems.asset
+#	modified:   The Ocarina of Time/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+#	modified:   The Ocarina of Time/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb
+#	modified:   The Ocarina of Time/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+#	modified:   The Ocarina of Time/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb
+#	modified:   The Ocarina of Time/Library/ScriptAssemblies/Assembly-CSharp.dll
+#	modified:   The Ocarina of Time/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+#	modified:   The Ocarina of Time/Library/assetDatabase3
+#	modified:   The Ocarina of Time/Library/metadata/00/00000000000000004000000000000000
+#	modified:   The Ocarina of Time/Library/metadata/00/00000000000000006100000000000000
+#	modified:   The Ocarina of Time/Library/metadata/67/67cf1b7e4553af84db5f5e5358e983c6
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/0834048301d91d488bcca9035dd21a73.clust
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/2f36c51f9d724ce26512d385e17766e9.bakeres
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/3cca7ce173a649c8d34a50626b6b0bc0.lt
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/3cca7ce173a649c8d34a50626b6b0bc0.vis
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/55fd64f2d5b447e2e127e0f144d382c8.bakevb
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/67575201d014de343ad8f5e1b8fda4cb.lt
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/67575201d014de343ad8f5e1b8fda4cb.vis
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/6f1ce32a63958f6ba27ca52fb053a111.clust
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/702afff113759ab137b01b90f3007727.bakedir
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/70916c884b29dd6b3439faf7185ffa54.clust
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/9c2e327b9b2703e454b00c2406a17390.bakert
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/aac0f944fd4564f43ca93530b6609167.bakeup
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/bebaa06656cee2b3ddc9cc5e709157a1.lt
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/bebaa06656cee2b3ddc9cc5e709157a1.vis
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/c1d950b785447d43e8bc106a65cf52b2.lt
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/c1d950b785447d43e8bc106a65cf52b2.vis
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/dfc06bd37a32c6436e16fa87e7feb1f7.clust
+#	new file:   The Ocarina of Time/Temp/ProcessJobs/ed1c7b6533e4edade611f082bb814811.bakeindir
+#
+# Untracked files:
+#	The Ocarina of Time/Temp/UnityLockfile
+#	The Ocarina of Time/Temp/UnityTempFile-72d953ff42bdc24449533778643fca33
+#	The Ocarina of Time/Temp/UnityTempFile-b2032c3be4d4ada4db3fd27c0fae8750
+#	The Ocarina of Time/Temp/UnityTempFile-bfc70663712098945a961ae293163f42
+#	The Ocarina of Time/Temp/__Backupscenes/
+#
+
