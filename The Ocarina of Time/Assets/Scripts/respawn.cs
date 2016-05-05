@@ -11,6 +11,7 @@ public class respawn : MonoBehaviour {
             var respoint = GameObject.FindGameObjectWithTag("Respawn").transform;
             var vars = GameObject.FindGameObjectWithTag("GameController");
             var check = vars.GetComponent<VarTracker>();
+            check.hp = check.hp - 2;
             transform.position = respoint.transform.position;
         }
     }
