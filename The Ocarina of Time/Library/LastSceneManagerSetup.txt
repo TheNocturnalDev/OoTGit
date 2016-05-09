@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Hyrule Market.unity
+=======
+- path: Assets/Scenes/Lake Hylia.unity
+>>>>>>> origin/Mapping
   isLoaded: 1
   isActive: 1

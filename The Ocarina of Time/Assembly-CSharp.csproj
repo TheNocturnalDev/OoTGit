@@ -54,6 +54,11 @@
      <Compile Include="Assets\Scripts\SpawnKak.cs" />
      <Compile Include="Assets\Scripts\UseDevMode.cs" />
      <Compile Include="Assets\Scripts\VarTracker.cs" />
+<<<<<<< HEAD
+=======
+     <Compile Include="Assets\Scripts\respawn.cs" />
+     <Compile Include="Assets\Scripts\timemanager.cs" />
+>>>>>>> origin/Mapping
      <Compile Include="Assets\UnityChan\Scripts\CameraController.cs" />
      <Compile Include="Assets\UnityChan\Scripts\FaceUpdate.cs" />
      <Compile Include="Assets\UnityChan\Scripts\IdleChanger.cs" />
