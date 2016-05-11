@@ -87,10 +87,12 @@
     <Compile Include="Assets\Arkham Interactive\Toony\Skies\Scripts\Levelloader.cs" />
     <Compile Include="Assets\Arkham Interactive\Toony\Skies\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\LoadKakoriko.cs" />
+    <Compile Include="Assets\Scripts\LoadKokiri.cs" />
     <Compile Include="Assets\Scripts\LoadLevel.cs" />
     <Compile Include="Assets\Scripts\LoadLevelonTrigger.cs" />
     <Compile Include="Assets\Scripts\SpawnHField.cs" />
     <Compile Include="Assets\Scripts\SpawnKak.cs" />
+    <Compile Include="Assets\Scripts\TitleThemeAudioSwitcher.cs" />
     <Compile Include="Assets\Scripts\UseDevMode.cs" />
     <Compile Include="Assets\Scripts\VarTracker.cs" />
     <Compile Include="Assets\Scripts\respawn.cs" />
