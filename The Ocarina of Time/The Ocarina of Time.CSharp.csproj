@@ -95,6 +95,7 @@
     <Compile Include="Assets\Scripts\TitleThemeAudioSwitcher.cs" />
     <Compile Include="Assets\Scripts\UseDevMode.cs" />
     <Compile Include="Assets\Scripts\VarTracker.cs" />
+    <Compile Include="Assets\Scripts\playmusicontime.cs" />
     <Compile Include="Assets\Scripts\respawn.cs" />
     <Compile Include="Assets\Scripts\timemanager.cs" />
     <Compile Include="Assets\UnityChan\Scripts\CameraController.cs" />
