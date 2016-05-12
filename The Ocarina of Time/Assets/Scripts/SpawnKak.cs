@@ -10,6 +10,7 @@ public class SpawnKak : MonoBehaviour {
         var usual = GameObject.FindGameObjectWithTag("DefaultSpawn").transform;
         var vars = GameObject.FindGameObjectWithTag("GameController");
         var check = vars.GetComponent<VarTracker>();
+        var time = vars.GetComponent<timemanager>();
         if (check.Location == 0)
         {
             transform.position = fromfield.transform.position;
@@ -25,6 +26,8 @@ public class SpawnKak : MonoBehaviour {
             transform.position = usual.transform.position;
             check.Location = 3;
         }
+        time.usetime = false;
+
     }
 	
 	// Update is called once per frame

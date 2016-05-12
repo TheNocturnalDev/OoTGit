@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Ocarina of Time.CSharp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Ocarina of Time.CSharp", "The Ocarina of Time.CSharp.csproj", "{838D6CB7-21E9-AFA7-3697-1071760D5CDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Ocarina of Time.CSharp.Editor.Plugins", "The Ocarina of Time.CSharp.Editor.Plugins.csproj", "{9FEA0B96-5D73-CF47-2352-C4F34F710E04}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Ocarina of Time.CSharp.Editor", "The Ocarina of Time.CSharp.Editor.csproj", "{0165D9E0-AB71-8D9B-0BE8-215BD5F9C62F}"
 EndProject
 Global
@@ -21,6 +23,10 @@ Global
 		{838D6CB7-21E9-AFA7-3697-1071760D5CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{838D6CB7-21E9-AFA7-3697-1071760D5CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{838D6CB7-21E9-AFA7-3697-1071760D5CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FEA0B96-5D73-CF47-2352-C4F34F710E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEA0B96-5D73-CF47-2352-C4F34F710E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEA0B96-5D73-CF47-2352-C4F34F710E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEA0B96-5D73-CF47-2352-C4F34F710E04}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0165D9E0-AB71-8D9B-0BE8-215BD5F9C62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0165D9E0-AB71-8D9B-0BE8-215BD5F9C62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0165D9E0-AB71-8D9B-0BE8-215BD5F9C62F}.Release|Any CPU.ActiveCfg = Release|Any CPU

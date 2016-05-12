@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class timemanager : MonoBehaviour
 {
+    public bool usetime = true;
     public int frame = 0;
     // Use this for initialization
     void Start()
@@ -14,13 +15,17 @@ public class timemanager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        var vars = GameObject.FindGameObjectWithTag("GameController");
-        var check = vars.GetComponent<VarTracker>();
-        if (frame == 30)
+        if (usetime == true)
         {
-            check.time++;
-            frame = 0;
+            var vars = GameObject.FindGameObjectWithTag("GameController");
+            var check = vars.GetComponent<VarTracker>();
+            if (frame == 30)
+
+            {
+                check.time++;
+                frame = 0;
+            }
+            frame++;
         }
-        frame++;
     }
 }
